@@ -51,6 +51,16 @@
     text-align: center;
 }
 
+
 #form {
     background-color: rgba(0, 0, 0, 0.5);
+}
+.errmsg {
+    color: red;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.p3 {
+    color: black;
 }
